@@ -1,0 +1,4 @@
+mx1.example.com
+my.mail.server.com
+my.cpanel.forwarder.com.au
+5.2.45.65

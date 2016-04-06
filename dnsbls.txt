@@ -1,0 +1,15 @@
+b.barracudacentral.org
+all.s5h.net
+dnsbl.sorbs.net
+cbl.abuseat.org
+multi.surbl.org
+bl.spamcop.net
+zen.spamhaus.org
+rbl.megarbl.net
+bl.spamcannibal.org
+list.dsbl.org
+psbl.surriel.com
+dnsbl-2.uceprotect.net
+dnsbl-3.uceprotect.net
+bad.psky.me
+ubl.unsubscore.com
