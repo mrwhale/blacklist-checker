@@ -19,6 +19,8 @@ To use this you will need
 5. Make a cron entry, like `00 08-18 * * * /usr/bin/php /home/john/blacklist/blacklist-cron.php >> /home/john/blacklist/cron.log`
   * This will run the script every hour between 8am and 6pm (office ours). I also did this to reduce the amount of requests i send to each dnsbl. You can change this to suit your needs
 
+![slack notification](https://raw.githubusercontent.com/mrwhale/blacklist-checker/master/slack-blacklist-checker.png)
+
 You will now be alerted when a server of yours gets put on any of those blacklists, like this. It will also alert you when they are removed again
 
 Hope this is useful for you
